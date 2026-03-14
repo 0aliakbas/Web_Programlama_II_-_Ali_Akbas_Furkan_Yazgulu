@@ -10,7 +10,7 @@ Projenin temel amacı, **Django** web framework'ünün resmi dokümantasyonunda 
 - **Furkan Yazgülü** (Öğrenci No: 2024481057)
 
 ## Danışmanlar
-- **Ders Sorumlusu:** Doç. Dr. Mesut Polatgil
+- **Doç. Dr. Mesut Polatgil**
 - **Danışman:** Arş. Gör. Fatih Demirel
 
 ---
